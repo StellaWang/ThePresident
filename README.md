@@ -1,4 +1,4 @@
 ThePresident
 ============
 
-UITableView with DetailView pushing, ScrollView, Textview, Like & Dislike Button, and Like & Dislike count.
+UITableView with DetailView pushing, Embedded Navigation Controller, ScrollView, Textview, Like & Dislike Button, and Like & Dislike count.
